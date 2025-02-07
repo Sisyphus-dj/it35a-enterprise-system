@@ -27,8 +27,11 @@ c. case study 2: Failed Enterprise System Implementation
    c.2. implementation process & challenges
             Implementation Process: The process likely involved selecting and customizing the new system, integrating various business functions like inventory, supply chain, and finance, and rolling it out across their operations.
             Challenges: Nike's challenges on implementing their ERP system are the following; 
-1. Overly Unrealistic Goals: Nike sets unrealistic goals without fully considering the complexities of their business operations and global ooperations.
-2. Lack of proper testing: Deploying the system without making sure it complied with operational requirements resulted in problems completing consumer orders, particularly for popular items like Air Jordans.
-3. Integration Issues:  The new system failed to properly integrate with existing business functions, causing delays in inventory management and order fulfillment.
-4. Operational Impact: These difficulties resulted in a 20% decline in stock price and a $100 million loss in revenue, highlighting the serious consequences of an unsuccessful ERP deployment.
-
+                        1. Overly Unrealistic Goals: Nike sets unrealistic goals without fully considering the complexities of their business operations and global ooperations.
+                        2. Lack of proper testing: Deploying the system without making sure it complied with operational requirements resulted in problems completing consumer orders, particularly for popular items like Air Jordans.
+                        3. Integration Issues:  The new system failed to properly integrate with existing business functions, causing delays in inventory management and order fulfillment.
+                        4. Operational Impact: These difficulties resulted in a 20% decline in stock price and a $100 million loss in revenue, highlighting the serious consequences of an unsuccessful ERP deployment.
+c.3. Key failure factors
+            - The key failure factors of Nike's enterprise system implementation are their overly unrealistic goals, lack of proper testing and considerations for meeting the operational requirments, integration issues and the operational impacts.
+c.4. outcomes & consequences
+            - These difficulties resulted in a 20% decline in stock price and a $100 million loss in revenue, highlighting the serious consequences of an unsuccessful ERP deployment.
