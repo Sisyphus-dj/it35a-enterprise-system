@@ -1,6 +1,8 @@
 a. Research title: "Comparative Analysis of Successful and Failed Enterprise System Implementations"
             --"Comparative Analysis of Amazon's Successful and Nike's Failed Enterprise System Implementation"
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 b. Case Study 1: Successful Enterprise System Implementation
    b.1. company overview (Why the enterprise system was implemented)
       COMPANY: Amazon 
@@ -17,6 +19,8 @@ b. Case Study 1: Successful Enterprise System Implementation
    b.4. outcomes & impact
             - Amazon's outcome from this approach is enhanced customer satisfaction, more effective and profitable marketing campaigns, and improved inventory management.
             - The impact includes better supplier relationships, streamlined operations, and a stronger competitive position in the market.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 c. case study 2: Failed Enterprise System Implementation
    c.1. company overview (Reason for implementing the enterprise system)
@@ -35,3 +39,25 @@ c.3. Key failure factors
             - The key failure factors of Nike's enterprise system implementation are their overly unrealistic goals, lack of proper testing and considerations for meeting the operational requirments, integration issues and the operational impacts.
 c.4. outcomes & consequences
             - These difficulties resulted in a 20% decline in stock price and a $100 million loss in revenue, highlighting the serious consequences of an unsuccessful ERP deployment.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+d. Comparative analysis: create a table for both case study 1 & 2.
+d.1. Similarities & Differences
+d.2. Critical Success vs. Failure Factors
+ d.3. Key Takeaways & Lessons Learned include the following questions:
+            1. What did the successful case do right?
+            2. What went wrong in the failed case?
+            3. How can future implementations avoid similar failures?
+Table 1.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+|| Comparative Anaysis || CASE STUDY 1- AMAZON || CASE STUDY 2- NIKE ||
+--------------------------------------------------------------------------------------------------------------------------------------------
+|| SIMILARITIES ||
+--------------------------------------------------------------------------------------------------------------------------------------------
+|| DIFFERENCES ||
+--------------------------------------------------------------------------------------------------------------------------------------------
+|| CRITICAL SUCCESS ||
+---------------------------------------------------------------------------------------------------------------------------------------------
+||FAILURE FACTORS||
