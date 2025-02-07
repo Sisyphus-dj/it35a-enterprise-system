@@ -44,20 +44,36 @@ c.4. outcomes & consequences
 
 d. Comparative analysis: create a table for both case study 1 & 2.
 d.1. Similarities & Differences
+Similarities:
+-Both companies implemented ERP systems to improve operational efficiency and streamline business processes.
+-Both faced challenges in integrating new systems into their existing operations.
+Differences:
+-Amazon: Successfully integrated CRM, ERP, and SCM systems, creating a seamless flow between customer, supply chain, and business operations to drive customer satisfaction and profitability.
+-Nike: Faced failure due to unrealistic expectations, inadequate testing, and poor integration, resulting in operational disruptions and significant financial losses.
+
 d.2. Critical Success vs. Failure Factors
+Amazon’s Critical Success Factors:
+-Strategic Integration: Amazon successfully integrated CRM, ERP, and SCM systems to optimize operations and improve customer experience.
+-Realistic Goals & Planning: The company set achievable goals and continuously adapted its IT solutions to meet changing market needs, ensuring flexibility and efficiency.
+-Data Utilization: Amazon leveraged big data insights to drive decision-making, maintaining a competitive edge in a fast-evolving retail environment.
+
+Nike’s Critical Failure Factors:
+-Unrealistic Expectations: Nike set overly ambitious goals for its ERP system without fully understanding the operational complexity.
+-Lack of Proper Testing & Validation: The system was deployed without sufficient testing to ensure it met operational requirements, leading to failures in inventory management and order fulfillment.
+-Poor Integration: The ERP system didn’t integrate well with existing business processes, particularly during peak sales periods, causing major disruptions.
+
  d.3. Key Takeaways & Lessons Learned include the following questions:
             1. What did the successful case do right?
-            2. What went wrong in the failed case?
-            3. How can future implementations avoid similar failures?
-Table 1.
+- Amazon was successful because it set reasonable objectives, integrated its systems with care, and prioritized data-driven decision-making and continual improvement.
+Amazon was able to guarantee seamless operations and adjust to market needs by coordinating its IT systems with essential business processes such as CRM, ERP, and SCM.
+This led to an increase in customer happiness and operational efficiency.
 
---------------------------------------------------------------------------------------------------------------------------------------------
-|| Comparative Anaysis || CASE STUDY 1- AMAZON || CASE STUDY 2- NIKE ||
---------------------------------------------------------------------------------------------------------------------------------------------
-|| SIMILARITIES ||
---------------------------------------------------------------------------------------------------------------------------------------------
-|| DIFFERENCES ||
---------------------------------------------------------------------------------------------------------------------------------------------
-|| CRITICAL SUCCESS ||
----------------------------------------------------------------------------------------------------------------------------------------------
-||FAILURE FACTORS||
+            2. What went wrong in the failed case?
+- Nike failed because they rushed the implementation without doing thorough testing, established unrealistic expectations, and failed to properly assess the ERP system against operational demands.
+Missed orders, inventory problems, and financial losses resulted from the lack of planning and integration.
+
+            3. How can future implementations avoid similar failures?
+- Realistic Goals & Testing: A successful ERP implementation depends on setting achievable objectives and thoroughly testing the system prior to deployment.
+- System Integration: To guarantee seamless operations and optimize productivity, proper integration across all company activities (CRM, ERP, SCM) is crucial.
+- Data-Driven Decisions: Businesses can stay flexible and keep a competitive edge in ever-changing industries by utilizing data insights.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
